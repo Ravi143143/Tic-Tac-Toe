@@ -1,0 +1,201 @@
+.game-button {
+    color: blue;
+    font-size: 20px;
+    border-radius: 20px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: white;
+    border: 5px solid red;
+}
+
+.d {
+    margin: 7px;
+}
+
+.gamer {
+    display: none;
+}
+
+.heading {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    color: yellow;
+}
+
+.winnerElement {
+    color: red;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.bg-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+.con11 {
+    display: none;
+}
+
+.con12 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.con13 {
+    display: none;
+}
+
+.container {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.con1 {
+    width: 30%;
+    height: 35px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+.con2 {
+    width: 30%;
+    height: 35px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-color: black;
+    border-style: solid;
+}
+
+.con3 {
+    width: 30%;
+    height: 35px;
+    border-width: 0px;
+    border-bottom-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.con4 {
+    width: 30%;
+    height: 35px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-color: black;
+    border-style: solid;
+}
+
+.con5 {
+    width: 30%;
+    height: 35px;
+    border-top-width: 0px;
+    border-color: black;
+    border-style: solid;
+    border-left-width: 0px;
+}
+
+.con6 {
+    width: 30%;
+    height: 35px;
+    border-width: 0px;
+    border-bottom-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.con7 {
+    width: 30%;
+    height: 35px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-color: black;
+    border-style: solid;
+}
+
+.con8 {
+    width: 30%;
+    height: 35px;
+    border-top-width: 0px;
+    border-color: black;
+    border-style: solid;
+    border-left-width: 0px;
+}
+
+.con9 {
+    width: 30%;
+    height: 35px;
+    border-width: 0px;
+    border-bottom-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.input1 {
+    width:98%;
+    height:98%;
+    border-width: 0px;
+}
+
+.input2 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
+
+.input3 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
+
+.input4 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
+
+.input5 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
+
+.input6 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
+
+.input7 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
+
+.input8 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
+
+.input9 {
+    width: 98%;
+    height: 98%;
+    border-width: 0px;
+}
